@@ -1,0 +1,29 @@
+Indian Railways - Sample Train Information
+
+1.  Train Name: Tamil Nadu Express Train Number: 12621 Route: Chennai
+    Central -> New Delhi Departure Time: 10:00 PM Arrival Time: 07:00 AM
+    (Next Day) Ticket Price: Sleeper: ₹850 AC 3 Tier: ₹2200 AC 2 Tier:
+    ₹3200
+
+2.  Train Name: Shatabdi Express Train Number: 12028 Route: Bengaluru ->
+    Chennai Departure Time: 06:00 AM Arrival Time: 11:00 AM Ticket
+    Price: Chair Car: ₹1200 Executive Class: ₹2500
+
+3.  Train Name: Rajdhani Express Train Number: 12951 Route: Mumbai
+    Central -> New Delhi Departure Time: 05:00 PM Arrival Time: 08:30 AM
+    Ticket Price: AC 3 Tier: ₹2800 AC 2 Tier: ₹4100 AC 1 Tier: ₹6200
+
+4.  Train Name: Duronto Express Train Number: 12213 Route: Yesvantpur ->
+    Delhi Sarai Rohilla Departure Time: 11:40 PM Arrival Time: 07:10 AM
+    Ticket Price: Sleeper: ₹950 AC 3 Tier: ₹2400 AC 2 Tier: ₹3600
+
+5.  Train Name: Vande Bharat Express Train Number: 20664 Route:
+    Coimbatore -> Chennai Departure Time: 06:00 AM Arrival Time: 01:30
+    PM Ticket Price: Chair Car: ₹1500 Executive Chair Car: ₹2800
+
+Additional Information
+
+-   Booking Website: https://www.irctc.co.in
+-   Railway Helpline: 139
+-   Ticket Cancellation Charges apply as per Indian Railways rules.
+-   Carry valid ID proof while travelling.

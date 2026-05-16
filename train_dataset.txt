@@ -1,0 +1,727 @@
+TRAIN DATASET - 25 RECORDS
+
+
+==================================================================
+Train Name            : Bengaluru Link
+Train Number          : 14833
+Train Type            : Superfast Express
+Operator / Zone       : Northern Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : Mumbai Central (MMCT)
+Destination Station   : Bengaluru (SBC)
+Intermediate Stops    : Vijayawada, Salem, Bhopal, Jhansi
+Platform Number       : 1
+Route Distance (km)   : 698
+Departure Time        : 09:30
+Arrival Time          : 02:30
+Journey Duration      : 23h 43m
+Average Speed         : 56 km/h
+Classes Available     : Sleeper, 3A
+Pantry Availability   : No
+WiFi Availability     : No
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : Delayed by 10 mins
+Coach Position        : Available
+Seat Availability     : RAC 2
+Fare Range            : ₹457 - ₹5351
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Bengaluru Mail
+Train Number          : 18479
+Train Type            : Express
+Operator / Zone       : Eastern Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : Kolkata (KOAA)
+Destination Station   : Bengaluru (SBC)
+Intermediate Stops    : Surat, Vijayawada, Jhansi, Bhopal
+Platform Number       : 8
+Route Distance (km)   : 2714
+Departure Time        : 13:45
+Arrival Time          : 21:45
+Journey Duration      : 27h 21m
+Average Speed         : 90 km/h
+Classes Available     : Sleeper, 3A, 2A
+Pantry Availability   : Yes
+WiFi Availability     : No
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : On Time
+Coach Position        : Available
+Seat Availability     : Available 23
+Fare Range            : ₹1061 - ₹2105
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Mysuru Superfast
+Train Number          : 16863
+Train Type            : Express
+Operator / Zone       : South Central Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : Kolkata (KOAA)
+Destination Station   : Mysuru (MYS)
+Intermediate Stops    : Vadodara, Coimbatore, Nagpur, Vijayawada
+Platform Number       : 8
+Route Distance (km)   : 2264
+Departure Time        : 10:00
+Arrival Time          : 01:00
+Journey Duration      : 8h 31m
+Average Speed         : 63 km/h
+Classes Available     : Sleeper, 3A
+Pantry Availability   : No
+WiFi Availability     : No
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : Delayed by 25 mins
+Coach Position        : Available
+Seat Availability     : Available 45
+Fare Range            : ₹973 - ₹6301
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Pune Mail
+Train Number          : 16196
+Train Type            : Shatabdi Express
+Operator / Zone       : Western Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : Hyderabad (HYB)
+Destination Station   : Pune (PUNE)
+Intermediate Stops    : Nagpur, Vijayawada, Jhansi, Surat
+Platform Number       : 1
+Route Distance (km)   : 2409
+Departure Time        : 13:30
+Arrival Time          : 19:30
+Journey Duration      : 42h 14m
+Average Speed         : 66 km/h
+Classes Available     : Sleeper, 3A, 2A
+Pantry Availability   : No
+WiFi Availability     : No
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : Delayed by 10 mins
+Coach Position        : Available
+Seat Availability     : WL 5
+Fare Range            : ₹826 - ₹3516
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Hyderabad Superfast
+Train Number          : 17565
+Train Type            : Rajdhani Express
+Operator / Zone       : Western Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : Kolkata (KOAA)
+Destination Station   : Hyderabad (HYB)
+Intermediate Stops    : Surat, Bhopal, Jhansi, Nagpur
+Platform Number       : 9
+Route Distance (km)   : 2286
+Departure Time        : 20:15
+Arrival Time          : 07:15
+Journey Duration      : 7h 09m
+Average Speed         : 69 km/h
+Classes Available     : Sleeper, 3A
+Pantry Availability   : No
+WiFi Availability     : Yes
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : On Time
+Coach Position        : Available
+Seat Availability     : WL 5
+Fare Range            : ₹234 - ₹3052
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Mysuru Express
+Train Number          : 20521
+Train Type            : Superfast Express
+Operator / Zone       : South Central Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : Chennai Central (MAS)
+Destination Station   : Mysuru (MYS)
+Intermediate Stops    : Coimbatore, Nagpur, Surat, Jhansi
+Platform Number       : 2
+Route Distance (km)   : 474
+Departure Time        : 17:45
+Arrival Time          : 19:45
+Journey Duration      : 10h 31m
+Average Speed         : 56 km/h
+Classes Available     : CC, EC
+Pantry Availability   : No
+WiFi Availability     : Yes
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : Delayed by 25 mins
+Coach Position        : Available
+Seat Availability     : RAC 2
+Fare Range            : ₹1332 - ₹6547
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Mumbai Link
+Train Number          : 13509
+Train Type            : Express
+Operator / Zone       : Western Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : Bengaluru (SBC)
+Destination Station   : Mumbai Central (MMCT)
+Intermediate Stops    : Coimbatore, Bhopal, Jhansi, Vadodara
+Platform Number       : 3
+Route Distance (km)   : 2332
+Departure Time        : 22:45
+Arrival Time          : 13:45
+Journey Duration      : 17h 28m
+Average Speed         : 83 km/h
+Classes Available     : CC, EC
+Pantry Availability   : Yes
+WiFi Availability     : No
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : Delayed by 10 mins
+Coach Position        : Available
+Seat Availability     : RAC 2
+Fare Range            : ₹1421 - ₹6202
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Hyderabad Express
+Train Number          : 18485
+Train Type            : Passenger
+Operator / Zone       : Western Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : Mysuru (MYS)
+Destination Station   : Hyderabad (HYB)
+Intermediate Stops    : Salem, Vijayawada, Nagpur, Bhopal
+Platform Number       : 4
+Route Distance (km)   : 1635
+Departure Time        : 21:45
+Arrival Time          : 16:45
+Journey Duration      : 26h 38m
+Average Speed         : 87 km/h
+Classes Available     : Sleeper, 3A
+Pantry Availability   : No
+WiFi Availability     : No
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : Delayed by 25 mins
+Coach Position        : Available
+Seat Availability     : Available 23
+Fare Range            : ₹579 - ₹6280
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Chennai Link
+Train Number          : 19343
+Train Type            : Passenger
+Operator / Zone       : Southern Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : Mumbai Central (MMCT)
+Destination Station   : Chennai Central (MAS)
+Intermediate Stops    : Nagpur, Coimbatore, Bhopal, Surat
+Platform Number       : 3
+Route Distance (km)   : 591
+Departure Time        : 18:45
+Arrival Time          : 23:45
+Journey Duration      : 38h 58m
+Average Speed         : 63 km/h
+Classes Available     : Sleeper, 3A
+Pantry Availability   : Yes
+WiFi Availability     : Yes
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : Delayed by 25 mins
+Coach Position        : Available
+Seat Availability     : Available 23
+Fare Range            : ₹1031 - ₹2047
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Kolkata Express
+Train Number          : 13091
+Train Type            : Superfast Express
+Operator / Zone       : Northern Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : Ahmedabad (ADI)
+Destination Station   : Kolkata (KOAA)
+Intermediate Stops    : Coimbatore, Nagpur, Surat, Jhansi
+Platform Number       : 4
+Route Distance (km)   : 2332
+Departure Time        : 15:45
+Arrival Time          : 19:45
+Journey Duration      : 44h 50m
+Average Speed         : 50 km/h
+Classes Available     : Sleeper, 3A, 2A
+Pantry Availability   : Yes
+WiFi Availability     : No
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : Delayed by 25 mins
+Coach Position        : Available
+Seat Availability     : Available 23
+Fare Range            : ₹385 - ₹5599
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Thiruvananthapuram Mail
+Train Number          : 19826
+Train Type            : Shatabdi Express
+Operator / Zone       : Southern Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : Hyderabad (HYB)
+Destination Station   : Thiruvananthapuram (TVC)
+Intermediate Stops    : Bhopal, Jhansi, Nagpur, Coimbatore
+Platform Number       : 6
+Route Distance (km)   : 3114
+Departure Time        : 06:15
+Arrival Time          : 14:15
+Journey Duration      : 24h 04m
+Average Speed         : 95 km/h
+Classes Available     : CC, EC
+Pantry Availability   : Yes
+WiFi Availability     : Yes
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : Delayed by 25 mins
+Coach Position        : Available
+Seat Availability     : Available 23
+Fare Range            : ₹629 - ₹4166
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Hyderabad Express
+Train Number          : 12378
+Train Type            : Express
+Operator / Zone       : Western Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : Bengaluru (SBC)
+Destination Station   : Hyderabad (HYB)
+Intermediate Stops    : Jhansi, Surat, Vijayawada, Vadodara
+Platform Number       : 4
+Route Distance (km)   : 1365
+Departure Time        : 08:30
+Arrival Time          : 00:30
+Journey Duration      : 5h 23m
+Average Speed         : 55 km/h
+Classes Available     : 3A, 2A, 1A
+Pantry Availability   : No
+WiFi Availability     : Yes
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : On Time
+Coach Position        : Available
+Seat Availability     : Available 45
+Fare Range            : ₹1432 - ₹6307
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Hyderabad Superfast
+Train Number          : 20732
+Train Type            : Rajdhani Express
+Operator / Zone       : Southern Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : Pune (PUNE)
+Destination Station   : Hyderabad (HYB)
+Intermediate Stops    : Vadodara, Bhopal, Salem, Vijayawada
+Platform Number       : 10
+Route Distance (km)   : 2016
+Departure Time        : 00:45
+Arrival Time          : 03:45
+Journey Duration      : 15h 44m
+Average Speed         : 73 km/h
+Classes Available     : 3A, 2A, 1A
+Pantry Availability   : Yes
+WiFi Availability     : No
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : On Time
+Coach Position        : Available
+Seat Availability     : Available 23
+Fare Range            : ₹1257 - ₹4824
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Chennai Link
+Train Number          : 14358
+Train Type            : Express
+Operator / Zone       : South Central Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : New Delhi (NDLS)
+Destination Station   : Chennai Central (MAS)
+Intermediate Stops    : Vijayawada, Surat, Nagpur, Jhansi
+Platform Number       : 7
+Route Distance (km)   : 3135
+Departure Time        : 21:15
+Arrival Time          : 09:15
+Journey Duration      : 20h 28m
+Average Speed         : 60 km/h
+Classes Available     : CC, EC
+Pantry Availability   : No
+WiFi Availability     : No
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : Delayed by 10 mins
+Coach Position        : Available
+Seat Availability     : Available 23
+Fare Range            : ₹944 - ₹2453
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Mumbai Link
+Train Number          : 20882
+Train Type            : Passenger
+Operator / Zone       : Northern Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : Thiruvananthapuram (TVC)
+Destination Station   : Mumbai Central (MMCT)
+Intermediate Stops    : Vijayawada, Jhansi, Bhopal, Salem
+Platform Number       : 9
+Route Distance (km)   : 1904
+Departure Time        : 10:00
+Arrival Time          : 19:00
+Journey Duration      : 34h 11m
+Average Speed         : 82 km/h
+Classes Available     : Sleeper, 3A, 2A
+Pantry Availability   : No
+WiFi Availability     : Yes
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : Delayed by 25 mins
+Coach Position        : Available
+Seat Availability     : RAC 2
+Fare Range            : ₹473 - ₹3298
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Hyderabad Mail
+Train Number          : 16561
+Train Type            : Rajdhani Express
+Operator / Zone       : Western Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : Ahmedabad (ADI)
+Destination Station   : Hyderabad (HYB)
+Intermediate Stops    : Bhopal, Nagpur, Coimbatore, Vijayawada
+Platform Number       : 9
+Route Distance (km)   : 1449
+Departure Time        : 05:15
+Arrival Time          : 20:15
+Journey Duration      : 50h 22m
+Average Speed         : 91 km/h
+Classes Available     : 3A, 2A, 1A
+Pantry Availability   : No
+WiFi Availability     : No
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : Delayed by 10 mins
+Coach Position        : Available
+Seat Availability     : WL 5
+Fare Range            : ₹884 - ₹2810
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Hyderabad Superfast
+Train Number          : 22402
+Train Type            : Shatabdi Express
+Operator / Zone       : Eastern Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : New Delhi (NDLS)
+Destination Station   : Hyderabad (HYB)
+Intermediate Stops    : Jhansi, Vadodara, Surat, Bhopal
+Platform Number       : 9
+Route Distance (km)   : 1135
+Departure Time        : 07:30
+Arrival Time          : 06:30
+Journey Duration      : 23h 07m
+Average Speed         : 70 km/h
+Classes Available     : CC, EC
+Pantry Availability   : Yes
+WiFi Availability     : Yes
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : Delayed by 25 mins
+Coach Position        : Available
+Seat Availability     : RAC 2
+Fare Range            : ₹535 - ₹5695
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Chennai Link
+Train Number          : 15044
+Train Type            : Rajdhani Express
+Operator / Zone       : Western Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : New Delhi (NDLS)
+Destination Station   : Chennai Central (MAS)
+Intermediate Stops    : Jhansi, Salem, Bhopal, Vijayawada
+Platform Number       : 7
+Route Distance (km)   : 3037
+Departure Time        : 00:00
+Arrival Time          : 20:00
+Journey Duration      : 21h 44m
+Average Speed         : 64 km/h
+Classes Available     : Sleeper, 3A
+Pantry Availability   : No
+WiFi Availability     : No
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : Delayed by 25 mins
+Coach Position        : Available
+Seat Availability     : WL 5
+Fare Range            : ₹1461 - ₹5235
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : New Link
+Train Number          : 15168
+Train Type            : Rajdhani Express
+Operator / Zone       : Northern Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : Bengaluru (SBC)
+Destination Station   : New Delhi (NDLS)
+Intermediate Stops    : Surat, Vadodara, Bhopal, Jhansi
+Platform Number       : 5
+Route Distance (km)   : 605
+Departure Time        : 03:45
+Arrival Time          : 07:45
+Journey Duration      : 51h 38m
+Average Speed         : 83 km/h
+Classes Available     : CC, EC
+Pantry Availability   : Yes
+WiFi Availability     : No
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : On Time
+Coach Position        : Available
+Seat Availability     : WL 5
+Fare Range            : ₹1314 - ₹5347
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Mumbai Superfast
+Train Number          : 19693
+Train Type            : Shatabdi Express
+Operator / Zone       : Eastern Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : Mysuru (MYS)
+Destination Station   : Mumbai Central (MMCT)
+Intermediate Stops    : Jhansi, Bhopal, Coimbatore, Salem
+Platform Number       : 3
+Route Distance (km)   : 1442
+Departure Time        : 02:15
+Arrival Time          : 22:15
+Journey Duration      : 8h 47m
+Average Speed         : 95 km/h
+Classes Available     : Sleeper, 3A, 2A
+Pantry Availability   : Yes
+WiFi Availability     : No
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : Delayed by 10 mins
+Coach Position        : Available
+Seat Availability     : RAC 2
+Fare Range            : ₹516 - ₹4411
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Mysuru Superfast
+Train Number          : 20420
+Train Type            : Rajdhani Express
+Operator / Zone       : Western Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : Pune (PUNE)
+Destination Station   : Mysuru (MYS)
+Intermediate Stops    : Vadodara, Surat, Salem, Vijayawada
+Platform Number       : 9
+Route Distance (km)   : 1612
+Departure Time        : 15:00
+Arrival Time          : 21:00
+Journey Duration      : 29h 33m
+Average Speed         : 68 km/h
+Classes Available     : Sleeper, 3A, 2A
+Pantry Availability   : Yes
+WiFi Availability     : No
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : On Time
+Coach Position        : Available
+Seat Availability     : Available 45
+Fare Range            : ₹428 - ₹4079
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Ahmedabad Express
+Train Number          : 15564
+Train Type            : Passenger
+Operator / Zone       : Eastern Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : Chennai Central (MAS)
+Destination Station   : Ahmedabad (ADI)
+Intermediate Stops    : Coimbatore, Vijayawada, Bhopal, Nagpur
+Platform Number       : 4
+Route Distance (km)   : 2371
+Departure Time        : 18:45
+Arrival Time          : 05:45
+Journey Duration      : 41h 48m
+Average Speed         : 54 km/h
+Classes Available     : Sleeper, 3A, 2A
+Pantry Availability   : Yes
+WiFi Availability     : Yes
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : On Time
+Coach Position        : Available
+Seat Availability     : Available 23
+Fare Range            : ₹1358 - ₹2489
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Kolkata Express
+Train Number          : 14942
+Train Type            : Superfast Express
+Operator / Zone       : Northern Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : Ahmedabad (ADI)
+Destination Station   : Kolkata (KOAA)
+Intermediate Stops    : Coimbatore, Jhansi, Salem, Nagpur
+Platform Number       : 6
+Route Distance (km)   : 1060
+Departure Time        : 16:00
+Arrival Time          : 21:00
+Journey Duration      : 37h 50m
+Average Speed         : 64 km/h
+Classes Available     : CC, EC
+Pantry Availability   : No
+WiFi Availability     : Yes
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : Delayed by 25 mins
+Coach Position        : Available
+Seat Availability     : Available 45
+Fare Range            : ₹1222 - ₹6851
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Mysuru Superfast
+Train Number          : 13381
+Train Type            : Shatabdi Express
+Operator / Zone       : South Central Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : Chennai Central (MAS)
+Destination Station   : Mysuru (MYS)
+Intermediate Stops    : Vadodara, Nagpur, Salem, Coimbatore
+Platform Number       : 9
+Route Distance (km)   : 2487
+Departure Time        : 11:15
+Arrival Time          : 21:15
+Journey Duration      : 25h 57m
+Average Speed         : 49 km/h
+Classes Available     : Sleeper, 3A
+Pantry Availability   : Yes
+WiFi Availability     : Yes
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : On Time
+Coach Position        : Available
+Seat Availability     : WL 5
+Fare Range            : ₹599 - ₹3385
+Last Updated          : 11-May-2026
+==================================================================
+
+==================================================================
+Train Name            : Thiruvananthapuram Express
+Train Number          : 18962
+Train Type            : Shatabdi Express
+Operator / Zone       : South Central Railway
+Running Days          : Mon, Tue, Wed, Thu, Fri, Sat, Sun
+Source Station        : Pune (PUNE)
+Destination Station   : Thiruvananthapuram (TVC)
+Intermediate Stops    : Bhopal, Nagpur, Vadodara, Vijayawada
+Platform Number       : 5
+Route Distance (km)   : 2998
+Departure Time        : 02:15
+Arrival Time          : 22:15
+Journey Duration      : 10h 29m
+Average Speed         : 60 km/h
+Classes Available     : Sleeper, 3A, 2A
+Pantry Availability   : No
+WiFi Availability     : Yes
+Railway Helpline      : 139
+Emergency Number      : 182
+Customer Care         : 1800-111-139
+Station Inquiry       : 131
+Train Status          : On Time
+Coach Position        : Available
+Seat Availability     : Available 23
+Fare Range            : ₹973 - ₹3383
+Last Updated          : 11-May-2026
+==================================================================
